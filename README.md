@@ -9,7 +9,6 @@
 
 AeroSim6 puts you in control of a reconnaissance and strike drone across a three-mission desert campaign, combining realistic 6-degree-of-freedom flight dynamics with mission-driven objectives and a full instrument HUD — all built solo, from physics to mission architecture to rendering.
 
----
 
 ## 🎮 Campaign
 
@@ -83,6 +82,3 @@ Play it on itch.io: **[jyotirmoy32.itch.io/aerosim6](https://jyotirmoy32.itch.io
 
 All Rights Reserved
 
----
-
-Built by [Jyotirmoy Saikia] — ML/AI Engineer exploring the intersection of simulation, systems, and applied ML.
