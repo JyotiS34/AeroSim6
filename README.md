@@ -78,6 +78,8 @@ Play it on itch.io: **[jyotirmoy32.itch.io/aerosim6](https://jyotirmoy32.itch.io
 - [ ] Expanded environments
 - [ ] Refined flight tuning based on player feedback
 
+**Built with Cursor Agent, Claude.ai & Google Gemini**
+
 ## 📄 License
 
 All Rights Reserved
